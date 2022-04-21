@@ -1,5 +1,5 @@
 
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)]
+[![MasterHead](https://www.canva.com/design/DAE-jdNN6dE/GdsL8LkwR4AfIecqa_G8kA/view?utm_content=DAE-jdNN6dE&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)]
 <h1 align="center">Hi 👋, I'm AmirGull</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 <img  alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
