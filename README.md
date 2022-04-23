@@ -1,5 +1,5 @@
 ![UI and UX Designer Gradient Creative Grey and Yellow LinkedIn Banner](https://user-images.githubusercontent.com/28804803/164555155-9330725a-9e36-43ed-88b0-09fa3f155f5f.png)
-<h1 align="center">Hi 👋, I'm AmirGull</h1>
+<h1 align="center">Hi 👋, I'm Amir Ali</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **MERN Projects**
