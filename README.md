@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **New Technologies**
 
-- 👨‍💻 All of my projects are available at [https://devxtop.com/portfolios](https://devxtop.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://devxtop.com/portfolio](https://devxtop.com/portfolio)
 
 - 💬 Ask me about **MERN**
 
